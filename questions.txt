@@ -1,0 +1,20 @@
+1,How many grapes are needed to make one bottle of wine?,A. About 100,B. About 700,C. About 400,D. About 500,B
+2,What is the only food that has no expiration date?,A. Rice,B. Vinegar,C. Wasabi,D. Honey,D
+3,English is most closely related to what language?,A. Chinese,B. Italian ,C. Spanish,D. German,D
+4,What country is sushi from?,A. China,B. Korea,C. Vienam,D. Japan,D
+5,What is the official language of the United States of America?,A. English,B. Spanish,C. Vietnamese,D. None,D
+6,How many stars are there on the American flag?,A. 49,B. 55,C. 51,D. 50,D
+7,What country gave the Statue of Liberty to the United States?,A. China,B. UK,C. Mexico,D. France,D
+8,In the Disney movie Finding Nemo what type of fish is Nemo?,A. clownfish,B. Shark,C. Dophin,D. goldfish,A
+9,Who is the father of Computer science?,A. Brian Le,B. Charles Babbage,C. Nga Vu,D. Anh Tran,B
+10,In a computer most processing takes place in?,A. CPU,B. PCU,C. UPC,D. USB,A
+11,In which year the Microsoft company was founded?,A. 2022,B. 2010,C. 1975,D. 1996,C
+12,What city was the first capital of the United States?,A. Washington D.C,B. Atlanta,C. Sai Gon,D. Ha Noi,A
+13,Who first discovered America?,A. Brian Le,B. Christopher Columbus,C. Nga vu,D. Leif Erikson,B
+14,What is the supreme law of the land?,A. the Constitution,B. Washington,C. the government,D. Presiden,A
+15,What do we call the first ten amendments to the Constitution?,A. I love You,B. the Bill of Rights,C. We are one,D. the Bill of Wrongs,B
+16,How many amendments does the Constitution have?,A. 49,B. 55,C. 27,D. 50,C
+17,Who is in charge of the executive branch?,A. Army,B. the President,C. Navy,D. Vice President,B
+18,How many U.S. Senators are there?,A. 49,B. 100,C. 151,D. 190,B
+19,We elect a U.S. Representative for how many years?,A. 2,B. 4,C. 5,D. 6,A
+20, In what month do we vote for President?,A. November,B. December,C. September,D. June,A
